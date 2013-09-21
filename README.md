@@ -1,3 +1,6 @@
+NodeJS HTML Truncate [![Gittip](http://badgr.co/gittip/fgribreau.png)](https://www.gittip.com/fgribreau/)
+----------------------
+
 # Motivation
 Truncate HTML text and also keep tag safe.
 
