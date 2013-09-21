@@ -108,6 +108,9 @@ truncate('<p><div>hello world</div></p>', 4, { ellipsis: '' })
 ### documentation
 [npm: yuidocjs](https://npmjs.org/package/yuidocjs)
 
+## Donate
+[Donate Bitcoins](https://coinbase.com/checkouts/fc3041b9d8116e0b98e7d243c4727a30)
+
 ## LICENSE
 Copyrights for code authored by Yahoo! Inc. is licensed under the following terms:
 MIT License
